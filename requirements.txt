@@ -1,6 +1,7 @@
 fastapi>=0.110
 uvicorn[standard]>=0.29
 torch>=2.0.0
+numpy>=1.24
 pillow>=10.0
 mini-taskqueue @ git+https://github.com/Shivam101s/mini-taskqueue.git
 pytest>=7.3
